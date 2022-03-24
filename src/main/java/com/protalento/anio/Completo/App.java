@@ -12,6 +12,7 @@ public class App
         int a, b;
         a=2;
         b = 4;
-        System.out.println(b*a);
+        System.out.println(b*a+a);
+        
     }
 }
