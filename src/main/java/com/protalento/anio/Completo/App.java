@@ -12,11 +12,7 @@ public class App
         int a, b;
         a=2;
         b = 4;
-<<<<<<< HEAD
         System.out.println(b*a+a);
-        
-=======
         System.out.println(b*a*2);
->>>>>>> pre-prod
     }
 }
